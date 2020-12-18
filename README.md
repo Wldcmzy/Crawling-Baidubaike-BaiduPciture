@@ -1,2 +1,3 @@
-# Crawling-Baidubaike-BaiduPciture
+# 百度百科词条查询 百度图片图片抓取
 百度百科词条查询与百度图片抓取 Python爬虫 作为学爬虫的练习 代码较乱 
+以后可能不再更新，注意此程序有时效性
